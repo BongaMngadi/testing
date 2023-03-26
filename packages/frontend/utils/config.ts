@@ -1,4 +1,4 @@
-const API_PRODUCTION_URL = 'https://test-xzzt.onrender.com';
+const API_PRODUCTION_URL = 'https://api.getorca.org';
 const API_DEV_URL = 'https://test-xzzt.onrender.com';
 
 export const Config = {
